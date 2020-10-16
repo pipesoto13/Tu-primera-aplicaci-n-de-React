@@ -7,9 +7,9 @@ function App() {
     <div className="App">
       <header className="App-header">
         <div>
-          <h1>Mi primera app en React</h1>
+          <h1>Mi primera aplicación</h1>
           <p>
-            Edit <code>src/App.js</code> and save to reload.
+          Esta es mi primera aplicación en React, está padrísimo!
           </p>
         </div>
       </header>
